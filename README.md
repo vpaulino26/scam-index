@@ -1,4 +1,7 @@
-# scam-index
+# scam index
 
-Feed video into this model api:
-https://github.com/kira-03/Grocery-Product-Identification-System
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
